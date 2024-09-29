@@ -41,4 +41,7 @@ Set the macro to the physical left mouse button and choose the playback option "
 
 You can now enable the AntiRecoil anytime by selecting the profile that you have set up. Disable it by switching profiles again.  
 Keep in mind that you will no longer be able to use your left mouse click button like normal until you switch profiles. I recommend changing it to scroll wheel down in **Step 1**.
+I am not responsible for what you do with this script, use it at your own risk.
+You risk your account getting banned if used in public matches.
+Btw my sens is 5 on both axis.
 
