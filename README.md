@@ -2,6 +2,8 @@
 Anti Recoil script for Rainbow Six Seige Using Razer Synapse
 ### Use at your own risk
 
+### THIS SCRIPT IS OUTDATED. FOR THE NEW SCRIPT GENERATOR WEBSITE [CLICK HERE](https://sntr.galacticapricot.dev/) and follow the instructions here after downloading
+
 ---
 
 ## Prerequisites:
